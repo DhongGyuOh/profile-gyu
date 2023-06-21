@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/profile-gyu/static/css/main.94ca8350.css",
+    "main.js": "/profile-gyu/static/js/main.f19177e5.js",
+    "index.html": "/profile-gyu/index.html",
+    "main.94ca8350.css.map": "/profile-gyu/static/css/main.94ca8350.css.map",
+    "main.f19177e5.js.map": "/profile-gyu/static/js/main.f19177e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94ca8350.css",
+    "static/js/main.f19177e5.js"
+  ]
+}
