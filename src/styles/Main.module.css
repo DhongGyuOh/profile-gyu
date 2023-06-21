@@ -1,0 +1,37 @@
+.Main {
+  z-index: 0;
+}
+.First {
+  z-index: 1;
+  width: 1520;
+  height: 2000px;
+
+  background-image: linear-gradient(to bottom, #1b161f, #543c41);
+}
+.Second {
+  z-index: 2;
+  width: 1520;
+  height: 2000px;
+
+  background-image: linear-gradient(to bottom, #543c41, #1a6579);
+}
+.Third {
+  z-index: 3;
+  width: 1520;
+  height: 2000px;
+
+  background-image: linear-gradient(to bottom, #1a6579, #6f9398);
+}
+.Fourth {
+  z-index: 4;
+  width: 1520;
+  height: 2000px;
+
+  background-image: linear-gradient(to bottom, #6f9398, #bec0c0);
+}
+.Fifth {
+  z-index: 4;
+  width: 1520;
+  height: 2000px;
+  background-color: #bec0c0;
+}

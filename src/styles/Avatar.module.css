@@ -1,0 +1,59 @@
+.Avatar {
+  position: fixed;
+  padding: 10px;
+  display: block;
+  width: 200px;
+  height: 230px;
+  background-color: rgba(190, 192, 192, 0);
+  border-bottom-right-radius: 15%;
+}
+.Avatar__circle {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  border-style: double;
+  animation: Animation_circle 3s ease-in-out infinite;
+}
+@keyframes Animation_circle {
+  0% {
+    transform: translateX(0px) translateY(0px);
+  }
+  25% {
+    transform: translateX(-2px) translateY(2px);
+  }
+  50% {
+    transform: translateX(0px) translateY(0px);
+  }
+  75% {
+    transform: translateX(2px) translateY(-2px);
+  }
+
+  100% {
+    transform: translateX(0px) translateY(0px);
+  }
+}
+.Avatar__img {
+  background-color: cornsilk;
+  display: block;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+.Avatar_info {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.Avatar_info__name {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 2px;
+  color: #212a40;
+}
+.Avatar_info__age {
+  padding: 2px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #212a40;
+}

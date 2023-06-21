@@ -1,0 +1,19 @@
+.List {
+  margin-top: 250px;
+  padding: 10px;
+}
+.List ul {
+  transform: translateX(20px);
+  padding-bottom: 20px;
+  font-size: 25px;
+  color: #212a40;
+}
+.List ul li {
+  font-size: 20px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
+.List ul li:hover {
+  cursor: pointer;
+  scale: 1.2;
+}
