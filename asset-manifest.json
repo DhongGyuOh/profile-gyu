@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/profile-gyu/static/css/main.94ca8350.css",
-    "main.js": "/profile-gyu/static/js/main.905e6c30.js",
+    "main.js": "/profile-gyu/static/js/main.31e5e8ac.js",
     "index.html": "/profile-gyu/index.html",
     "main.94ca8350.css.map": "/profile-gyu/static/css/main.94ca8350.css.map",
-    "main.905e6c30.js.map": "/profile-gyu/static/js/main.905e6c30.js.map"
+    "main.31e5e8ac.js.map": "/profile-gyu/static/js/main.31e5e8ac.js.map"
   },
   "entrypoints": [
     "static/css/main.94ca8350.css",
-    "static/js/main.905e6c30.js"
+    "static/js/main.31e5e8ac.js"
   ]
 }
